@@ -3,7 +3,7 @@
 
 Original script 
 
-<iframe width="1864" height="755" src="https://www.youtube.com/embed/dLUSNpXmjsU" title="FiveM Shower Script - Free ESX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=dLUSNpXmjsU
 
 This is just an adapted and improved version of that one
 
