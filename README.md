@@ -27,7 +27,7 @@ FEATURES:
 
 ######## PREVIEW ##################################
 
-
+[SEE PREVIEW](https://medal.tv/games/gta-v/clips/keFididZgtJgsC4hu?invite=cr-MSxsRjcsODIyNTMzNDg)
 
 ################# WARMING #########################
 
