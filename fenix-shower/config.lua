@@ -33,8 +33,7 @@ Config.Shower = {
         anim = "male_shower_idle_d", -- nombre de la animación
     },
     Cooldown = 60, -- Time between showers
-    ParticleInterval = 5.1 -- Intervalo entre partículas (si usás partículas)
-}
+    ParticleInterval = 5.1 -- Time between particles reload (sync with actual duration)
 
 
 -- Notify configuration
@@ -87,12 +86,9 @@ Config.ShowerOutfits = {
         glasses = { item = -1, texture = 0 },
         ears = { item = -1, texture = 0 },
         watch = { item = -1, texture = 0 },
-        bracelet = { item = -1, texture = 0 }
-    }
-}
+        bracelet = { item = -1, texture = }
 
-
--- Coordenadas de zonas de ducha
+-- Showers Locations -- duh
 Config.ShowerLocations = {
     vector3(-767.04, 327.19, 170.97),
     vector3(254.65, -999.93, -99.01),
