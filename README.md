@@ -28,3 +28,5 @@ FEATURES:
 ######## PREVIEW ##################################
 
 https://medal.tv/games/gta-v/clips/keFididZgtJgsC4hu?invite=cr-MSxzNTEsODIyNTMzNDg&v=22
+
+Go an check fenixdev.tebex.io for other scripts
