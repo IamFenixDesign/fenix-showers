@@ -8,11 +8,11 @@ https://www.youtube.com/watch?v=dLUSNpXmjsU
 This is just an adapted and improved version of that one
 
 Compatibility: 
- 1) QBCore: Dah
+ 1) QBCore/QBox
  2) Target: ox-target and qb-target
- 3) Notifations: ox_lib and QBCore.Notify
+ 3) Notifations: ox_lib and qb
  4) Progressbar: ox_lib, QBCore and none
- 5) Clothing: QBCore or illenium-appearance
+ 5) Clothing: QB-clothing or illenium-appearance
 
 
 FEATURES:
@@ -26,13 +26,3 @@ FEATURES:
 - Configurable locations by using Vector3
 
 ######## PREVIEW ##################################
-
-[SEE PREVIEW](https://medal.tv/games/gta-v/clips/keFididZgtJgsC4hu?invite=cr-MSxsRjcsODIyNTMzNDg)
-
-################# WARMING #########################
-
-I only test this script using ox so if there is any issues with qb-target, or qb-clothing please let me know by openinin an issue here.
-
-
-
-
