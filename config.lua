@@ -23,7 +23,7 @@ Config.Shower = {
     },
     Cooldown = 60, -- Time between showers
     ParticleInterval = 5.1 -- Time between particles reload (sync with actual duration)
-
+}
 
 -- Notify configuration
 Config.Notifications = {
@@ -75,7 +75,9 @@ Config.ShowerOutfits = {
         glasses = { item = -1, texture = 0 },
         ears = { item = -1, texture = 0 },
         watch = { item = -1, texture = 0 },
-        bracelet = { item = -1, texture = }
+        bracelet = { item = -1, texture = 0 }
+    },
+}
 
 -- Showers Locations -- duh
 Config.ShowerLocations = {

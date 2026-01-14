@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=dLUSNpXmjsU
 This is just an adapted and improved version of that one
 
 Compatibility: 
- 1) QBCore/QBox
+ 1) QBCore/QBox/ESX
  2) Target: ox-target and qb-target
  3) Notifations: ox_lib and qb
  4) Progressbar: ox_lib, QBCore and none
@@ -26,3 +26,5 @@ FEATURES:
 - Configurable locations by using Vector3
 
 ######## PREVIEW ##################################
+
+https://medal.tv/games/gta-v/clips/keFididZgtJgsC4hu?invite=cr-MSxzNTEsODIyNTMzNDg&v=22

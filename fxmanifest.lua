@@ -11,12 +11,17 @@ shared_scripts {
 }
 
 client_scripts {
+    'bridge/qb/client.lua',
+    'bridge/esx/client.lua',
+    'bridge/qbox/client.lua',
     'client/cl_main.lua'
 }
 
 server_scripts {
+    'bridge/qb/server.lua',
+    'bridge/esx/server.lua',
+    'bridge/qbox/server.lua',
     'server/version.lua'
 }
 
 lua54 'yes'
-
