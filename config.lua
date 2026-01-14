@@ -1,16 +1,5 @@
 Config = {}
 
--- Choose target system"
-Config.Target = "ox" -- "qb" o "ox"
-
--- Choose notify system
-Config.Notify = "ox" -- "qb" o "ox"
-
--- Choose progressbar
-Config.ProgressBar = "ox" -- "ox", "qb" o "none"
-
--- Choose clothing system
-Config.ClothingSystem = "illenium" -- o "qb"
 
 -- Target config
 Config.TargetSettings = {
@@ -73,8 +62,8 @@ Config.ShowerOutfits = {
     },
     female = {
         ["t-shirt"] = { item = 14, texture = 0 },
-        torso = { item = 194, texture = 0 },
-        arms = { item = 338, texture = 0 },
+        torso = { item = 629, texture = 0 },
+        arms = { item = 376, texture = 0 },
         pants = { item = 69, texture = 0 },
         shoes = { item = 85, texture = 0 },
         mask = { item = 0, texture = 0 },
